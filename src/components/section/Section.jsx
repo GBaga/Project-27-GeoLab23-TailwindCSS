@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-comment-textnodes */
 /* eslint-disable react/prop-types */
 import Button from "../button/Button";
 
