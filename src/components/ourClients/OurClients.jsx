@@ -1,6 +1,6 @@
 const clients = [
-  { logoUrl: "../src/assets/client1-icon.png", href: "#" },
-  { logoUrl: "../src/assets/client2-icon.png", href: "#" },
+  { logoUrl: ".../src/assets/client1-icon.png", href: "#" },
+  { logoUrl: "..../src/assets/client2-icon.png", href: "#" },
   { logoUrl: "../src/assets/client3-icon.png", href: "#" },
   { logoUrl: "../src/assets/client4-icon.png", href: "#" },
   { logoUrl: "../src/assets/client5-icon.png", href: "#" },
