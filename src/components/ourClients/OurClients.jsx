@@ -1,6 +1,10 @@
+import client1Icon from "src/assets/client1-icon.png";
+import client2Icon from "src/assets/client2-icon.png";
+import client6Icon from "src/assets/client2-icon.png";
+
 const clients = [
   { logoUrl: "./assets/client1-icon.png", href: "#" },
-  { logoUrl: "./assets/client2-icon.png", href: "#" },
+  { logoUrl: client2Icon, href: "#" },
   { logoUrl: "./assets/client3-icon.png", href: "#" },
   { logoUrl: "/assets/client4-icon.png", href: "#" },
   { logoUrl: "/assets/client5-icon.png", href: "#" },
