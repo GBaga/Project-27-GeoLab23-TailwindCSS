@@ -6,4 +6,7 @@ export default defineConfig({
   optimizeDeps: {
     include: ["@material-tailwind/react"],
   },
+  resolve: {
+    extensions: [".js", ".jsx"], // Add ".jsx" if not already included
+  },
 });

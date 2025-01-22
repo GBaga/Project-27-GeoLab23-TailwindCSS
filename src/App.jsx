@@ -7,7 +7,7 @@ import Hero from "./components/hero/Hero";
 import Navbar from "./components/navbar/Navbar";
 import OfferSection from "./components/offerSection/OfferSection";
 import ClientsSection from "./components/ourClients/OurClients";
-import Section from "./components/section/section";
+import Section from "./components/section/Section";
 import StatisticSection from "./components/statisticSection/StatisticSection";
 
 function App() {
