@@ -2,22 +2,22 @@ import StatisticBox from "../statisticBox/StatisticBox";
 
 const statisticsArr = [
   {
-    iconUrl: "../src/assets/members-icon.png",
+    iconUrl: "./assets/members-icon.png",
     headingNumber: "2,245,341",
     description: "Members",
   },
   {
-    iconUrl: "../src/assets/clubs-icon.png",
+    iconUrl: "./assets/clubs-icon.png",
     headingNumber: "46,328",
     description: "Clubs",
   },
   {
-    iconUrl: "../src/assets/bookings-icon.png",
+    iconUrl: "./assets/bookings-icon.png",
     headingNumber: "828,867",
     description: "Event Bookings",
   },
   {
-    iconUrl: "../src/assets/payments-icon.png",
+    iconUrl: "./assets/payments-icon.png",
     headingNumber: "1,926,436",
     description: "Payments",
   },

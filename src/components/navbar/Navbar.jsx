@@ -16,7 +16,7 @@ const Navbar = () => {
       <nav className="navbar max-w-[1215px] w-full flex justify-between">
         <div className="navbar-left  ">
           <a href="#" className="logo">
-            <img src="../src/assets/Logo.png" alt="logo" />
+            <img src="./assets/Logo.png" alt="logo" />
           </a>
         </div>
         <div className="navbar-center max-w-[588px] w-full flex  ">

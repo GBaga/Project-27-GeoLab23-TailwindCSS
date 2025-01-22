@@ -2,9 +2,9 @@ const clients = [
   { logoUrl: "./assets/client1-icon.png", href: "#" },
   { logoUrl: "./assets/client2-icon.png", href: "#" },
   { logoUrl: "./assets/client3-icon.png", href: "#" },
-  { logoUrl: "/assets/client4-icon.png", href: "#" },
-  { logoUrl: "/assets/client5-icon.png", href: "#" },
-  { logoUrl: "/assets/client6-icon.png", href: "#" },
+  { logoUrl: "./assets/client4-icon.png", href: "#" },
+  { logoUrl: "./assets/client5-icon.png", href: "#" },
+  { logoUrl: "./assets/client6-icon.png", href: "#" },
 ];
 
 function ClientsSection() {

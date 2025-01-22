@@ -2,19 +2,19 @@ import CommunityCard from "../communityCard/CommunityCard";
 
 const communityArr = [
   {
-    iconUrl: "../src/assets/membership-icon.png",
+    iconUrl: "./assets/membership-icon.png",
     heading: "Membership Organisations",
     description:
       "Our membership management software provides full automation of membership renewals and payments",
   },
   {
-    iconUrl: "../src/assets/associations-icon.png",
+    iconUrl: "./assets/associations-icon.png",
     heading: "National Associations",
     description:
       "Our membership management software provides full automation of membership renewals and payments",
   },
   {
-    iconUrl: "../src/assets/groups-icon.png",
+    iconUrl: "./assets/groups-icon.png",
     heading: "Clubs And Groups",
     description:
       "Our membership management software provides full automation of membership renewals and payments",

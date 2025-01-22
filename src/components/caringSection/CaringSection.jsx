@@ -4,16 +4,16 @@ import CaringCard from "../caringCard/CaringCard";
 
 const caringArr = [
   {
-    photoUrl: "../src/assets/woman-image.png",
+    photoUrl: "./assets/woman-image.png",
     description: "Creating Streamlined Safeguarding Processes with OneRen",
   },
   {
-    photoUrl: "../src/assets/left-laptop-image.png",
+    photoUrl: "./assets/left-laptop-image.png",
     description:
       "What are your safeguarding responsibilities and how can you manage them?",
   },
   {
-    photoUrl: "../src/assets/right-laptop-image.png",
+    photoUrl: "./assets/right-laptop-image.png",
     description: "Revamping the Membership Model with Triathlon Australia",
   },
 ];
