@@ -11,7 +11,7 @@ function Section(props) {
         </div>
         <div className="max-w-[657px] min-h-[276px]">
           <h2 className="font-inter text-[36px] font-semibold leading-[44px] text-darkGray">
-            {props.heading}{" "}
+            {props.heading}
           </h2>
           <p className="font-inter text-[14px] font-normal leading-[20px] text-mediumGray mt-[16px] mb-[32px]">
             {props.description}
