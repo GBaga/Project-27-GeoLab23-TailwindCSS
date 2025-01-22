@@ -4,7 +4,7 @@ import CommunitySection from "./components/communitySection/CommunitySection";
 import CustomersSection from "./components/customersSection/CustomersSection";
 import Footer from "./components/footer/Footer";
 import Hero from "./components/hero/Hero";
-import Navbar from "./components/navbar/navbar";
+import Navbar from "./components/navbar/Navbar";
 import OfferSection from "./components/offerSection/OfferSection";
 import ClientsSection from "./components/ourClients/OurClients";
 import Section from "./components/section/section";
