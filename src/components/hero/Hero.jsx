@@ -15,7 +15,7 @@ function Hero() {
           <Button btnText="Register" />
         </div>
         <div>
-          <img src="./assets/illustration.png" alt="hero-image" />
+          <img src="./assets/hero-illustration.png" alt="hero-image" />
         </div>
       </div>
     </section>
