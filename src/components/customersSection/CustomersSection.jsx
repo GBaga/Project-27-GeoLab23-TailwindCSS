@@ -51,7 +51,7 @@ function CustomersSection() {
               className="w-[223px] h-full flex justify-between items-center font-inter text-[20px] font-semibold leading-[28px] text-brandPrimary"
             >
               Meet all customers
-              <img src="../src/assets/right-arrow.png" alt="right-arrow" />
+              <img src="./assets/right-arrow.png" alt="right-arrow" />
             </a>
           </div>
         </div>

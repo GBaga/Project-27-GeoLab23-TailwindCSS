@@ -39,15 +39,6 @@ function CaringSection() {
               description={card.description}
             />
           ))}
-
-          {/* {communityArr.map((card, index) => (
-            <CommunityCard
-              key={index}
-              iconUrl={card.iconUrl}
-              heading={card.heading}
-              description={card.description}
-            />
-          ))} */}
         </div>
       </div>
     </section>

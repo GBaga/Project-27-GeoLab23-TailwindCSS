@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function StatisticBox(props) {
   return (
     <div className="min-w-[255px] min-h-[60px] flex flex-wrap justify-start items-center">
