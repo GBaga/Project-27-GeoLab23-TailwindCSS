@@ -19,7 +19,7 @@ const CaringCard = (props) => {
             Readmore
             <img
               className="ml-2"
-              src="../src/assets/right-arrow.png"
+              src="./assets/right-arrow.png"
               alt="right-arrow"
             />
           </button>
