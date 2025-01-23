@@ -7,7 +7,7 @@ function Hero() {
         <div className="max-w-[657px] min-h-[276px]">
           <h1 className="font-inter text-[64px] font-semibold leading-[76px] text-darkGray">
             Lessons and insights
-            <span className="text-brandPrimary">from 8 years</span>
+            <span className="text-brandPrimary"> from 8 years</span>
           </h1>
           <p className="font-inter text-[16px] font-normal leading-[24px] text-mediumGray mt-[16px] mb-[32px]">
             Where to grow your business as a photographer: site or social media?
