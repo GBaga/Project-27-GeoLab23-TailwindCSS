@@ -14,7 +14,7 @@ function CustomersSection() {
         <div>
           <img
             className="max-w-[326px] max-h-[326px]"
-            src="../src/assets/tesla-logo-image.png"
+            src="./assets/tesla-logo-image.png"
             alt="image"
           />
         </div>
